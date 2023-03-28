@@ -1,6 +1,16 @@
 # CRUD-B-sico-com-MySQL
 CRUD Básico apenas para verificação de funcionalidades com MySQL / XAMPP / NodeJS
 
+- ReactJS
+- NodeJS
+- Nodemon
+- XAMPP
+- MySQL
+- Express
+- Material-UI
+
+-Execute 'npm install' nas pastas 'server' e 'client'
+
 Script para Base de Dados no MySQL:
 
 >>>
