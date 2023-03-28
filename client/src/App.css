@@ -1,0 +1,81 @@
+.App {
+  display: flex;
+  width: auto;
+  height: 100vb;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+  /* background-color: beige; */
+}
+
+.Caixainserir {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* align-self: center; */
+  /* background-color: beige; */
+  /* border: 1px solid black; */
+  height: 50px;
+  width: 90%;
+  margin: 5px
+}
+
+.Caixadados {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: center; */
+
+  background-color: lightgray;
+  height: auto;
+  width: 90%;
+  margin-top: 20px;
+}
+
+.conteudo {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.dados {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+}
+
+.Textdados {
+  /* border: 1px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.titulos {
+  border: 1px solid black;
+  width: 25%;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* .Modal {
+ display: flex;
+ flex-direction: column;
+ align-self: center;
+ justify-self: center;
+ border: 1px solid black;
+ width: 500px;
+  
+} */
